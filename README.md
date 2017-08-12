@@ -1,3 +1,3 @@
-# EtsyParser
+# Etsy Parser
 
 ## Description
